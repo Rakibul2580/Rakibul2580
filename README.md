@@ -1,5 +1,5 @@
 ![A passionate MERN Stack developer from Bangladesh](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
-### Hi there 👋, I'm Rakibul Hasan
+# Hi there 👋, I'm Rakibul Hasan
 #### A passionate MERN Stack developer from Bangladesh
 
 I am a person who loves to learn and explore new technologies. Web development is my passion. I love to code with consistency. I want to gather knowledge of new technologies always. I have already completed a number of projects based on my skills which are available on my GitHub repositories. You can check my repo for a better idea about my coding. Thank you.

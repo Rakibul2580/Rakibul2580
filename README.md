@@ -1,4 +1,4 @@
-![A passionate MERN Stack developer from Bangladesh](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
+![A passionate MERN Stack developer from Bangladesh](https://i.ibb.co/jZ9QJh9/Rakibul-hasan-1.png)
 # Hi there 👋, I'm Rakibul Hasan
 #### A passionate MERN Stack developer from Bangladesh
 
